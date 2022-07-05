@@ -47,6 +47,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
+<noscript><p title="</noscript><img src=x onerror=alert(214)>">
+  
+  "><script>alert(510)</script>
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
